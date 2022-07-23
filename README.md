@@ -25,6 +25,7 @@ Here are some ideas to get you started:
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
    <img alt="redux-persist" src="https://img.shields.io/badge/-Redux--persist-764ABC?style=flat-square&logo=redux&logoColor=white" />
    <img alt="redux-thunk" src="https://img.shields.io/badge/-Redux--thunk-764ABC?style=flat-square&logo=redux&logoColor=white" />
+   <img alt="redux-toolkit" src="https://img.shields.io/badge/-Redux--toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
   <img alt="d3js" src="https://img.shields.io/badge/-react--chart--js2-F9A03C?style=flat-square&logo=react-chart-js2&logoColor=white" />
