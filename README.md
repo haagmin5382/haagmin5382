@@ -30,5 +30,5 @@ Here are some ideas to get you started:
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
   <img alt="react-chart-js2" src="https://img.shields.io/badge/-react--chart--js2-F9A03C?style=flat-square&logo=react-chart-js2&logoColor=white" />
-  <img alt="firebase" src="https://img.shields.io/badge/-firebase-F9A03C?style=flat-square&logo=firebase&logoColor=white" />
+  <img alt="firebase" src="https://img.shields.io/badge/-firebase-orange?style=flat-square&logo=firebase&logoColor=white" />
 </p>
