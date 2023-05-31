@@ -1,4 +1,4 @@
-### 안녕하세요 UX를 생각하는 프론트엔드 개발자 노학민 입니다. 
+### 안녕하세요 끊임없이 도전하는 프론트엔드 개발자 노학민 입니다. 
 
 <!--
 **haagmin5382/haagmin5382** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on Company Project 'JOCHI'
+- 🌱 I’m currently learning React-Native
+
 
 <h3>Stack</h3>
 <p>
