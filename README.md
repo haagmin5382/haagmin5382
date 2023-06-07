@@ -33,3 +33,5 @@ Here are some ideas to get you started:
   <img alt="jest" src="https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=Jest&logoColor=white" />
   <img alt='github Actions' src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=Github_Actions&logoColor=white"/>
 </p>
+
+[![Hakmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=haagmin5382)](https://github.com/haagmin5382/github-readme-stats)
