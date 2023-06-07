@@ -35,3 +35,5 @@ Here are some ideas to get you started:
 </p>
 
 [![Hakmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=haagmin5382)](https://github.com/haagmin5382/github-readme-stats)
+https://github-readme-stats.vercel.app/api?username=haagmin5382)&hide=stars,contribs
+
