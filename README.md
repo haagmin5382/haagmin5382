@@ -31,4 +31,5 @@ Here are some ideas to get you started:
   <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
   <img alt="firebase" src="https://img.shields.io/badge/-firebase-orange?style=flat-square&logo=firebase&logoColor=white" />
   <img alt="jest" src="https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=Jest&logoColor=white" />
+  <img alt='github Actions' src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=Github_Actions&logoColor=white"/>
 </p>
