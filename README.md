@@ -34,6 +34,5 @@ Here are some ideas to get you started:
   <img alt='github Actions' src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=Github_Actions&logoColor=white"/>
 </p>
 
-[![Hakmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=haagmin5382)](https://github.com/haagmin5382/github-readme-stats)
-https://github-readme-stats.vercel.app/api?username=haagmin5382)&hide=stars,contribs
+[![Hakmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=haagmin5382&hide=stars,contribs)](https://github.com/haagmin5382/github-readme-stats)
 
