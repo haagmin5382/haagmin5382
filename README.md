@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on Company Project 'JOCHI'
-- 🌱 I’m currently learning React-Native
+- 🌱 I’m currently learning React-Native , NodeJS, Express
 
 
 <h3>Stack</h3>
