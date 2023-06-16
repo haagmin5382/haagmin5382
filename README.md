@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on Company Project 'JOCHI'
+- 🔭 I’m currently working on Company 'Eco&Rich Corp.'
 - 🌱 I’m currently learning React-Native , NodeJS, Express
 
 
