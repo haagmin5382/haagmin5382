@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on Company 'Eco&Rich Corp.'
-- 🌱 I’m currently learning NodeJS, React-native
+- 🌱 I’m currently learning Dart & Flutter
 
 
 <h3>Stack</h3>
