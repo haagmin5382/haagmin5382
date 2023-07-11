@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on Company 'Eco&Rich Corp.'
+- 🔭 I’m currently working on Project 'JOCHI'
 - 🌱 I’m currently learning Dart & Flutter
 
 
