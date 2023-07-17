@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on Company 'Eco&Rich Corp.'
 - 🔭 I’m currently working on Project 'JOCHI'
-- 🌱 I’m currently learning Dart & Flutter
+- 🌱 I’m currently learning Dart Language & Flutter FrameWork
+- 😄 I’m currently interesting in Learning mobile app
 
 
 <h3>Stack</h3>
