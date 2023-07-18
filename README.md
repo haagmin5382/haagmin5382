@@ -37,3 +37,5 @@ Here are some ideas to get you started:
   <img alt='github Actions' src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=Github_Actions&logoColor=white"/>
 </p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haagmin5382&layout=compact&theme=dark)
+
