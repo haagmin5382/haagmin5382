@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on Company 'Eco&Rich Corp.'
 - 😄 I’m currently interesting in Learning Dart & Flutter
-
+- My notion(https://bejewled-casquette-b1c.notion.site/dc8ed55a89fb408b84afdb03c2713efd?pvs=4)
 
 <h3>Stack</h3>
 <p>
