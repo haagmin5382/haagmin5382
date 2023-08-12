@@ -1,4 +1,4 @@
-### 안녕하세요 끊임없이 도전하는 프론트엔드 개발자 노학민 입니다. 유지 보수하기 쉬운 클린 코드에 관심이 많습니다.
+### 안녕하세요 프론트엔드 개발자 노학민 입니다. 클린 코드에 관심이 많습니다.
 
 <!--
 **haagmin5382/haagmin5382** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
