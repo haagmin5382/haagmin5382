@@ -35,6 +35,9 @@ Here are some ideas to get you started:
   <img alt='github Actions' src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=Github_Actions&logoColor=white"/>
   <img alt='dart'  src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=Dart&logoColor=white" />
 <img alt='dart'  src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white" />
+<img alt='Recoil'  src="https://img.shields.io/badge/-Recoil-3578E5?style=flat-square&logo=Recoil&logoColor=white" />
+
+
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haagmin5382&layout=compact&theme=dark)
 
