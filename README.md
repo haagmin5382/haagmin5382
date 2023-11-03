@@ -1,4 +1,4 @@
-### 꾸준히 성장하는 개발자 노학민 입니다. 
+### 꾸준함이 무기인 개발자 노학민 입니다. 
 
 <!--
 **haagmin5382/haagmin5382** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
