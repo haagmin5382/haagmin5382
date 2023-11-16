@@ -36,7 +36,7 @@ Here are some ideas to get you started:
   <img alt='github Actions' src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=Github_Actions&logoColor=white"/>
   <img alt='dart'  src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=Dart&logoColor=white" />
   <img alt='Flutter'  src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white" />
-  <img alt='react-query'  src="https://img.shields.io/badge/-React_Query-02569B?style=flat-square&logo=React_Query&logoColor=white" />
+  <img alt='react-query'  src="https://img.shields.io/badge/-reactquery-FF4154?style=flat-square&logo=React_Query&logoColor=white" />
 
 
 
