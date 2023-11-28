@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on Company 'Eco&Rich Corp.'
-- 😄 I’m currently studying Server&Database to be a FullStack Developer!
+- 😄 I’m currently studying Server & Database.
 - 📚 [My Notion](https://bejewled-casquette-b1c.notion.site/dc8ed55a89fb408b84afdb03c2713efd?pvs=4)
 
 
