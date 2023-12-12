@@ -1,4 +1,4 @@
-### Hello I'm growing developer! 
+### Hello I'm growing developer.
 
 <!--
 **haagmin5382/haagmin5382** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
