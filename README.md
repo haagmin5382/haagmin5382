@@ -38,6 +38,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>
 
 
+![hakmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=haagmin5382&hide=contribs,prs)
 
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haagmin5382&layout=compact&theme=dark)
