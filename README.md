@@ -36,10 +36,6 @@ Here are some ideas to get you started:
   <img alt='react-query'  src="https://img.shields.io/badge/-ReactQuery-FF4154?style=flat-square&logo=ReactQuery&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>
-
-
-
-![hakmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=haagmin5382&hide=stars,contribs&count_private=true)
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haagmin5382&layout=compact&theme=dark)
 
