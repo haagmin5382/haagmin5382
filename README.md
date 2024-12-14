@@ -39,9 +39,7 @@ Here are some ideas to get you started:
 
 
 
-![hakmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=haagmin5382&hide=contribs,prs&count_private=true)
-
-
+![hakmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=haagmin5382&hide=stars,contribs&count_private=true)
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haagmin5382&layout=compact&theme=dark)
 
